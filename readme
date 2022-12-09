@@ -1,4 +1,0 @@
-def invert (s)
-    cadenai= " "
-    lista=list=(s)
-    for i in lista
